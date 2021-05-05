@@ -4,7 +4,6 @@
 
 > **Web Development**
 
-<br>
 
 + Django, Pyramid, Flask, Bottle
 
@@ -14,7 +13,6 @@
 
 > **Game Development**
 
-<br>
 
 + Libraries like PySoy, PyGame.
 
@@ -25,7 +23,6 @@ Python is used as a scripting language by many game engines.
 
 > **Scientific and Numeric Applications**
 
-<br>
 
 + Python plays major role here and it has massive loaded libraries to deal with.
 Application like Free-CAD (3D Modeling software) and Abaqus (Finite Element method software) are coded in Python.
@@ -41,7 +38,6 @@ Application like Free-CAD (3D Modeling software) and Abaqus (Finite Element meth
 
 > **Artificial Intelligence and Machine Learning**
 
-<br>
 
 + I dont want to say anything new as you all know that this is the emergening global technology and top search topic all time in google.
 
@@ -54,7 +50,6 @@ Application like Free-CAD (3D Modeling software) and Abaqus (Finite Element meth
 
 > **Desktop GUI**
 
-<br>
 
 + Python offers many toolkits and frameworks for desktop application development
 
@@ -64,7 +59,6 @@ Application like Free-CAD (3D Modeling software) and Abaqus (Finite Element meth
 
 > **Software Development**
 
-<br>
 
 + Python also be used for build control, testing and management.
 
@@ -76,7 +70,6 @@ Application like Free-CAD (3D Modeling software) and Abaqus (Finite Element meth
 
 > **Enterprise-Level Business Aplications**
 
-<br>
 
 + Odoo, an all-in-one management software
 + Tryton, a three-tier general purpose application platform
